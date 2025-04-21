@@ -331,7 +331,7 @@ function main() {
         // Create element with <a> tag
         const link = document.createElement("a");
         const mytextarea = document.createElement("textarea");
-        mytextarea.innerHTML = "UNIT, BOOKING-ID, INCOME, MGMT-FEE, TAT1, TAT2, GE1, GE2, SUBTOTAL, TAT-GROSS-INCOME, TAT, GET-GROSS-INCOME, GET\n";
+        mytextarea.innerHTML = "UNIT, BOOKING-ID, INCOME, MGMT-FEE, TAT1, TAT2, GE1, GE2, SUBTOTAL, TAT-GROSS-INCOME, TAT, OLDCASTLEWAY-GET-GROSS-INCOME, OLDCASTLEWAY-GET\n";
 
         var unitstr = "";
         var TATGrossIncome;
